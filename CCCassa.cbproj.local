@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.444,D:\RadStudio\Sources\Gara\CCCassa\uSelect.dfm=E:\References\dalferin\Desktop\uSelect.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.286,E:\References\dalferin\Desktop\uSelect.dfm=D:\RadStudio\Sources\Gara\CCCassa\uSelect.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.030,D:\RadStudio\Sources\Gara\CCCassa\uSelect.dfm=E:\References\dalferin\Desktop\uSelect.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,D:\RadStudio\Sources\Gara\CCCassa\uSelect.dfm=E:\References\dalferin\Desktop\uSelect.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,E:\References\dalferin\Desktop\uSelect.dfm=D:\RadStudio\Sources\Gara\CCCassa\uSelect.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.768,D:\RadStudio\Sources\Gara\CCCassa\Unit1.dfm=D:\RadStudio\Sources\Gara\CCCassa\uSubscription.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.035,C:\RADStudio\Sources\Gara\CCCassa\uTiparBon.h=C:\RADStudio\Sources\Gara\CCCassa\uTiparBonuri.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.035,C:\RADStudio\Sources\Gara\CCCassa\uTiparBon.dfm=C:\RADStudio\Sources\Gara\CCCassa\uTiparBonuri.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.768,D:\RadStudio\Sources\Gara\CCCassa\Unit1.h=D:\RadStudio\Sources\Gara\CCCassa\uSubscription.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.444,D:\RadStudio\Sources\Gara\CCCassa\uSelect.h=E:\References\dalferin\Desktop\uSelect.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.030,D:\RadStudio\Sources\Gara\CCCassa\uSelect.h=E:\References\dalferin\Desktop\uSelect.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,D:\RadStudio\Sources\Gara\CCCassa\uSelect.h=E:\References\dalferin\Desktop\uSelect.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.905,D:\RadStudio\Sources\Gara\CCCassa\uSelect.h=E:\References\dalferin\Desktop\uSelect.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,C:\RADStudio\Sources\Gara\CCCassa\uTiparBonuri.h=C:\RADStudio\Sources\Gara\CCCassa\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,C:\RADStudio\Sources\Gara\CCCassa\uTiparBonuri.dfm=C:\RADStudio\Sources\Gara\CCCassa\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.905,D:\RadStudio\Sources\Gara\CCCassa\uSelect.dfm=E:\References\dalferin\Desktop\uSelect.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,E:\References\dalferin\Desktop\uSelect.h=D:\RadStudio\Sources\Gara\CCCassa\uSelect.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.286,E:\References\dalferin\Desktop\uSelect.h=D:\RadStudio\Sources\Gara\CCCassa\uSelect.h</Transaction>
+  </Transactions>
+</BorlandProject>
