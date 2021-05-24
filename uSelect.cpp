@@ -1630,7 +1630,8 @@ __fastcall TfSelRuta::TfSelRuta(TComponent *Owner) : TForm(Owner)
     SpinEdit1->OnChange = NULL;
 	SpinEdit1->Value = (int)(dmCassa->iSelZoomPercent);
 	SpinEdit1->OnChange = SpinEdit1Change;
-  _setSelectBroniQuery();
+	_setSelectBroniQuery();
+	imgLegenda->Picture = TAdditionalInfoLinker::instanse()->getLegendaImage();
 }
 // ---------------------------------------------------------------------------
 void __fastcall TfSelRuta::prepareForOpen(void)

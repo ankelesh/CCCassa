@@ -15,31 +15,31 @@ File_12=TSourceModule,'C:\RADStudio\Sources\Gara\SDK\uPrintSetup.dfm',0,1,1,1,1,
 File_13=TSourceModule,'C:\RadStudio\Sources\Cmp\UNIACsdk\usdk_PXSL.cpp',0,1,1,1,1,0,0,,
 
 [Modules]
-Module0=C:\RADStudio\Sources\Gara\CCCassa\uAdditionalInfoLinker.cpp
-Module1=c:\program files (x86)\embarcadero\studio\16.0\include\dinkumware\iosfwd
-Module2=C:\RADStudio\Sources\Gara\CCCassa\uSelect.cpp
-Module3=C:\RADStudio\Sources\Gara\SDK\uPrintSetup.cpp
-Module4=C:\RADStudio\Sources\Gara\CCCassa\uVinz.cpp
-Module5=C:\RADStudio\Sources\Gara\CCCassa\uStart.cpp
-Module6=C:\RADStudio\Sources\Gara\FastRep\Frdm.cpp
-Module7=C:\RADStudio\Sources\Gara\CCCassa\uFindBookedTicket.cpp
-Module8=C:\RADStudio\Sources\Gara\CCCassa\uMain.cpp
-Module9=C:\RADStudio\Sources\Gara\CCCassa\uCustomPrice.cpp
-Module10=c:\program files (x86)\embarcadero\studio\16.0\include\windows\vcl\Vcl.DBGrids.hpp
-Module11=C:\RadStudio\Sources\Cmp\Asagi\StaticDBGrid.cpp
-Module12=C:\RadStudio\Sources\Cmp\Asagi\DBGridMy1.cpp
-Module13=C:\RadStudio\Sources\Cmp\SimpCtl\UnSDGrid.cpp
-Module14=C:\RadStudio\Sources\Cmp\AsagiAG\UnDBCtrl.cpp
-Module15=C:\RADStudio\Sources\Gara\CCCassa\uCheckBroni.cpp
-Module16=C:\RADStudio\Sources\Gara\CCCassa\uControlPerr.cpp
-Module17=C:\RADStudio\Sources\Gara\CCCassa\uSaledTicks.cpp
-Module18=C:\RADStudio\Sources\Gara\CCCassa\uRetiparBil.cpp
-Module19=C:\RADStudio\Sources\Gara\CCCassa\uRest.cpp
-Module20=C:\RADStudio\Sources\Gara\CCCassa\uInfoPerute.cpp
-Module21=C:\RADStudio\Sources\Gara\CCCassa\uBani.cpp
-Module22=C:\RADStudio\Sources\Gara\CCCassa\uAddSelect.cpp
-Module23=C:\RADStudio\Sources\Gara\CCCassa\uSubscription.cpp
-Module24=C:\RADStudio\Sources\Gara\CCCassa\uTipBilet.cpp
+Module0=C:\RADStudio\Sources\Gara\CCCassa\uSelect.cpp
+Module1=C:\RADStudio\Sources\Gara\CCCassa\uVinz.cpp
+Module2=C:\RADStudio\Sources\Gara\CCCassa\uTipBilet.cpp
+Module3=C:\RADStudio\Sources\Gara\CCCassa\uAdditionalInfoLinker.cpp
+Module4=c:\program files (x86)\embarcadero\studio\16.0\include\dinkumware\iosfwd
+Module5=C:\RADStudio\Sources\Gara\SDK\uPrintSetup.cpp
+Module6=C:\RADStudio\Sources\Gara\CCCassa\uStart.cpp
+Module7=C:\RADStudio\Sources\Gara\FastRep\Frdm.cpp
+Module8=C:\RADStudio\Sources\Gara\CCCassa\uFindBookedTicket.cpp
+Module9=C:\RADStudio\Sources\Gara\CCCassa\uMain.cpp
+Module10=C:\RADStudio\Sources\Gara\CCCassa\uCustomPrice.cpp
+Module11=c:\program files (x86)\embarcadero\studio\16.0\include\windows\vcl\Vcl.DBGrids.hpp
+Module12=C:\RadStudio\Sources\Cmp\Asagi\StaticDBGrid.cpp
+Module13=C:\RadStudio\Sources\Cmp\Asagi\DBGridMy1.cpp
+Module14=C:\RadStudio\Sources\Cmp\SimpCtl\UnSDGrid.cpp
+Module15=C:\RadStudio\Sources\Cmp\AsagiAG\UnDBCtrl.cpp
+Module16=C:\RADStudio\Sources\Gara\CCCassa\uCheckBroni.cpp
+Module17=C:\RADStudio\Sources\Gara\CCCassa\uControlPerr.cpp
+Module18=C:\RADStudio\Sources\Gara\CCCassa\uSaledTicks.cpp
+Module19=C:\RADStudio\Sources\Gara\CCCassa\uRetiparBil.cpp
+Module20=C:\RADStudio\Sources\Gara\CCCassa\uRest.cpp
+Module21=C:\RADStudio\Sources\Gara\CCCassa\uInfoPerute.cpp
+Module22=C:\RADStudio\Sources\Gara\CCCassa\uBani.cpp
+Module23=C:\RADStudio\Sources\Gara\CCCassa\uAddSelect.cpp
+Module24=C:\RADStudio\Sources\Gara\CCCassa\uSubscription.cpp
 Module25=C:\RADStudio\Sources\Gara\CCCassa\uTiparBon.cpp
 Module26=C:\RADStudio\Sources\Gara\CCCassa\TSCPrinter.cpp
 Module27=C:\RADStudio\Sources\Gara\SDK\uUnivers.cpp
@@ -52,6 +52,21 @@ Module33=default.htm
 Count=34
 EditWindowCount=1
 
+[C:\RADStudio\Sources\Gara\CCCassa\uSelect.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=1
+
+[C:\RADStudio\Sources\Gara\CCCassa\uVinz.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=1
+
+[C:\RADStudio\Sources\Gara\CCCassa\uTipBilet.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=0
+
 [C:\RADStudio\Sources\Gara\CCCassa\uAdditionalInfoLinker.cpp]
 ModuleType=TSourceModule
 FormState=0
@@ -62,17 +77,7 @@ ModuleType=TSourceModule
 FormState=0
 FormOnTop=0
 
-[C:\RADStudio\Sources\Gara\CCCassa\uSelect.cpp]
-ModuleType=TSourceModule
-FormState=1
-FormOnTop=0
-
 [C:\RADStudio\Sources\Gara\SDK\uPrintSetup.cpp]
-ModuleType=TSourceModule
-FormState=1
-FormOnTop=0
-
-[C:\RADStudio\Sources\Gara\CCCassa\uVinz.cpp]
 ModuleType=TSourceModule
 FormState=1
 FormOnTop=0
@@ -172,11 +177,6 @@ ModuleType=TSourceModule
 FormState=1
 FormOnTop=0
 
-[C:\RADStudio\Sources\Gara\CCCassa\uTipBilet.cpp]
-ModuleType=TSourceModule
-FormState=1
-FormOnTop=0
-
 [C:\RADStudio\Sources\Gara\CCCassa\uTiparBon.cpp]
 ModuleType=TSourceModule
 FormState=1
@@ -226,7 +226,7 @@ FormOnTop=0
 
 [EditWindow0]
 ViewCount=34
-CurrentEditView=C:\RADStudio\Sources\Gara\CCCassa\uAdditionalInfoLinker.cpp
+CurrentEditView=C:\RADStudio\Sources\Gara\CCCassa\uSelect.cpp
 View0=0
 View1=1
 View2=2
@@ -308,13 +308,13 @@ EditViewName=C:\RADStudio\Sources\Gara\SDK\uPrintSetup.cpp
 [View2]
 CustomEditViewType=TEditView
 Module=C:\RADStudio\Sources\Gara\CCCassa\uVinz.cpp
-CursorX=1
-CursorY=384
-TopLine=372
+CursorX=8
+CursorY=781
+TopLine=768
 LeftCol=1
 Elisions=
 Bookmarks=
-EditViewName=C:\RADStudio\Sources\Gara\CCCassa\uVinz.cpp
+EditViewName=Borland.FormDesignerView
 
 [View3]
 CustomEditViewType=TEditView
@@ -363,20 +363,20 @@ EditViewName=C:\RADStudio\Sources\Gara\FastRep\Frdm.cpp
 [View7]
 CustomEditViewType=TEditView
 Module=C:\RADStudio\Sources\Gara\CCCassa\uSelect.cpp
-CursorX=39
-CursorY=2024
-TopLine=1923
+CursorX=47
+CursorY=3761
+TopLine=3747
 LeftCol=1
 Elisions=
 Bookmarks={1,1057,1}{2,344,1}
-EditViewName=C:\RADStudio\Sources\Gara\CCCassa\uSelect.cpp
+EditViewName=Borland.FormDesignerView
 
 [View8]
 CustomEditViewType=TEditView
 Module=C:\RADStudio\Sources\Gara\CCCassa\uAdditionalInfoLinker.cpp
-CursorX=32
-CursorY=9
-TopLine=136
+CursorX=46
+CursorY=59
+TopLine=41
 LeftCol=1
 Elisions=
 Bookmarks=
@@ -484,13 +484,13 @@ EditViewName=Borland.FormDesignerView
 [View18]
 CustomEditViewType=TEditView
 Module=C:\RADStudio\Sources\Gara\CCCassa\uTipBilet.cpp
-CursorX=55
-CursorY=60
-TopLine=52
+CursorX=1
+CursorY=113
+TopLine=101
 LeftCol=1
 Elisions=
 Bookmarks=
-EditViewName=Borland.FormDesignerView
+EditViewName=C:\RADStudio\Sources\Gara\CCCassa\uTipBilet.cpp
 
 [View19]
 CustomEditViewType=TEditView
@@ -682,7 +682,7 @@ Dockable=1
 StayOnTop=0
 
 [Breakpoints]
-Count=23
+Count=22
 Breakpoint0='C:\RADStudio\Sources\Gara\CCCassa\uVinz.cpp',1243,'',0,1,'',1,0,0,'',1,'','','',0,''
 Breakpoint1='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',834,'',0,1,'',1,0,0,'',1,'','','',0,''
 Breakpoint2='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',836,'',0,1,'',1,0,0,'',1,'','','',0,''
@@ -695,17 +695,16 @@ Breakpoint8='C:\RADStudio\Sources\Gara\SDK\uPrintSetup.cpp',1157,'',0,1,'',1,0,0
 Breakpoint9='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',917,'',0,1,'',1,0,0,'',1,'','','',0,''
 Breakpoint10='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',918,'',0,1,'',1,0,0,'',1,'','','',0,''
 Breakpoint11='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',1335,'',0,1,'',1,0,0,'',1,'','','',0,''
-Breakpoint12='C:\RADStudio\Sources\Gara\CCCassa\uTipBilet.cpp',113,'',0,1,'',1,0,0,'',1,'','','',0,''
-Breakpoint13='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',617,'',0,1,'',1,0,0,'',1,'','','',0,''
-Breakpoint14='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',615,'',0,1,'',1,0,0,'',1,'','','',0,''
-Breakpoint15='C:\RADStudio\Sources\Gara\CCCassa\uTipBilet.cpp',165,'',0,1,'',1,0,0,'',1,'','','',0,''
-Breakpoint16='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',622,'',0,1,'',1,0,0,'',1,'','','',0,''
-Breakpoint17='C:\RADStudio\Sources\Gara\CCCassa\uBani.cpp',45,'',0,1,'',1,0,0,'',1,'','','',0,''
-Breakpoint18='C:\RADStudio\Sources\Gara\CCCassa\uBani.cpp',46,'',0,1,'',1,0,0,'',1,'','','',0,''
-Breakpoint19='C:\RADStudio\Sources\Gara\CCCassa\uBani.cpp',48,'',0,1,'',1,0,0,'',1,'','','',0,''
-Breakpoint20='C:\RADStudio\Sources\Gara\CCCassa\uBani.cpp',47,'',0,1,'',1,0,0,'',1,'','','',0,''
-Breakpoint21='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',543,'',0,1,'',1,0,0,'',1,'','','',0,''
-Breakpoint22='C:\RADStudio\Sources\Gara\SDK\uPrintSetup.cpp',967,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint12='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',617,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint13='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',615,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint14='C:\RADStudio\Sources\Gara\CCCassa\uTipBilet.cpp',165,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint15='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',622,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint16='C:\RADStudio\Sources\Gara\CCCassa\uBani.cpp',45,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint17='C:\RADStudio\Sources\Gara\CCCassa\uBani.cpp',46,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint18='C:\RADStudio\Sources\Gara\CCCassa\uBani.cpp',48,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint19='C:\RADStudio\Sources\Gara\CCCassa\uBani.cpp',47,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint20='C:\RADStudio\Sources\Gara\CCCassa\uDMcassa.cpp',543,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint21='C:\RADStudio\Sources\Gara\SDK\uPrintSetup.cpp',967,'',0,1,'',1,0,0,'',1,'','','',0,''
 
 [EmbarcaderoWin32Debugger_AddressBreakpoints]
 Count=0
@@ -799,11 +798,11 @@ State=0
 Left=0
 Top=0
 Width=2000
-Height=8591
+Height=6568
 MaxLeft=-1
 MaxTop=-1
 ClientWidth=2000
-ClientHeight=8591
+ClientHeight=6568
 TBDockHeight=4883
 LRDockWidth=5307
 Dockable=1
@@ -816,7 +815,7 @@ Visible=0
 Docked=1
 State=0
 Left=-182
-Top=-106
+Top=-102
 Width=1849
 Height=3146
 MaxLeft=-1
@@ -880,7 +879,7 @@ MaxLeft=-1
 MaxTop=-1
 ClientWidth=1896
 ClientHeight=3104
-TBDockHeight=8877
+TBDockHeight=6854
 LRDockWidth=1896
 Dockable=1
 StayOnTop=0
@@ -895,11 +894,11 @@ State=0
 Left=0
 Top=0
 Width=2000
-Height=8591
+Height=6568
 MaxLeft=-1
 MaxTop=-1
 ClientWidth=2000
-ClientHeight=8591
+ClientHeight=6568
 TBDockHeight=5964
 LRDockWidth=2510
 Dockable=1
@@ -911,8 +910,8 @@ Create=1
 Visible=0
 Docked=1
 State=0
-Left=-1536
-Top=-106
+Left=-1419
+Top=-23
 Width=2844
 Height=6197
 MaxLeft=-1
@@ -931,7 +930,7 @@ Visible=0
 Docked=1
 State=0
 Left=-1728
-Top=-106
+Top=233
 Width=276
 Height=360
 MaxLeft=-1
@@ -1035,11 +1034,11 @@ State=0
 Left=0
 Top=0
 Width=2339
-Height=1197
+Height=953
 MaxLeft=-1
 MaxTop=-1
 ClientWidth=2339
-ClientHeight=1197
+ClientHeight=953
 TBDockHeight=2320
 LRDockWidth=2823
 Dockable=1
@@ -1100,11 +1099,11 @@ State=0
 Left=0
 Top=0
 Width=2000
-Height=8591
+Height=6568
 MaxLeft=-1
 MaxTop=-1
 ClientWidth=2000
-ClientHeight=8591
+ClientHeight=6568
 TBDockHeight=4883
 LRDockWidth=7151
 Dockable=1
@@ -1116,8 +1115,8 @@ Create=1
 Visible=0
 Docked=1
 State=0
-Left=0
-Top=0
+Left=370
+Top=749
 Width=2854
 Height=3210
 MaxLeft=-1
@@ -1412,7 +1411,7 @@ MaxLeft=-1
 MaxTop=-1
 ClientWidth=2000
 ClientHeight=4587
-TBDockHeight=8877
+TBDockHeight=6854
 LRDockWidth=2000
 Dockable=1
 StayOnTop=0
@@ -1436,7 +1435,7 @@ MaxLeft=-1
 MaxTop=-1
 ClientWidth=1896
 ClientHeight=3549
-TBDockHeight=8877
+TBDockHeight=6854
 LRDockWidth=1896
 Dockable=1
 StayOnTop=0
@@ -1460,7 +1459,7 @@ MaxLeft=-1
 MaxTop=-1
 ClientWidth=2000
 ClientHeight=2066
-TBDockHeight=8877
+TBDockHeight=6854
 LRDockWidth=2000
 Dockable=1
 StayOnTop=0

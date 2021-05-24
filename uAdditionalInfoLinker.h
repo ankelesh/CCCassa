@@ -20,6 +20,9 @@ private:
 
 	TAdditionalInfoLinker();
 	TAdditionalInfoLinker(String mainInfoTable, String imageTable);
+	int _getLegendaWidth(TCanvas * canvas);
+	int _getLegendaHeight();
+	TPoint _drawItem(TAdditionalInfoType& currentItem, TPoint currentPoint, TCanvas* img);
 public:
 	void performLink(String mainInfoTable, String imageTable);
 	void insertLink(int id, String text, TGraphic* image, TGraphic* largeImage);
@@ -32,6 +35,7 @@ public:
 	TStrings * getAllNames();
 	TImageList* getAllImages();
 	TImageList * getAllIcons();
+	TPicture* getLegendaImage();
 };
 //---------------------------------------------------------------------------
 #endif

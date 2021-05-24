@@ -430,6 +430,14 @@ object fSelRuta: TfSelRuta
               item
                 Color = clWindow
                 Expanded = False
+                FieldName = 'uname'
+                Title.Caption = 'Casir'
+                Width = 55
+                Visible = True
+              end
+              item
+                Color = clWindow
+                Expanded = False
                 FieldName = 'TERM'
                 ReadOnly = False
                 Title.Caption = 'Term'
@@ -943,6 +951,15 @@ object fSelRuta: TfSelRuta
           Stretch = True
           Visible = False
         end
+        object imgLegenda: TImage
+          Left = 0
+          Top = 30
+          Width = 57
+          Height = 502
+          Align = alLeft
+          AutoSize = True
+          Transparent = True
+        end
         object ImageEnView1: TImageEnView
           Left = 512
           Top = 376
@@ -1378,7 +1395,7 @@ object fSelRuta: TfSelRuta
     SQL.Strings = (
       
         'select b.starea,b.tipbroni, b.biletcount, b.idcasalenta, b.addin' +
-        'fo, b.term, b.is_subscription,'
+        'fo, us.name as uname, b.term, b.is_subscription,'
       ' t.first_name , t.last_name , t.phone , t.email, v.sector_nr, '
       
         ' '#39'Rind: '#39' || v.row_nr || '#39' Loc: '#39' || v.place_nr as rp_ident from' +
@@ -1401,9 +1418,13 @@ object fSelRuta: TfSelRuta
       '   and a.loc = p.abs_nr'
       '   and (sector_nr = :sec or :sec is null)'
       '   and (:sector_selection is null)'
-      ') v , t1rutabroni_detail t '
+      ') v , t1rutabroni_detail t,'
+      '('
+      '  select id, name from t0users '
+      ') us'
       'where b.idcasalenta = v.idcaslenta'
       'and b.idcasalenta = t.idcasalenta (+)'
+      'and us.id = b.casir '
       'order by starea')
     MasterSource = dsT0RUTA
     AfterScroll = qsBroniAfterScroll

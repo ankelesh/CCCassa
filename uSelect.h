@@ -424,6 +424,7 @@ __published:	// IDE-managed Components
 	TImageEnView *ImageEnView1;
 	TImage *imgposter;
 	TImage *imgPrices;
+	TImage *imgLegenda;
 	void __fastcall qsFreeLocAfterOpen(TDataSet *DataSet);
 	void __fastcall qsT0RUTABeforeOpen(TDataSet *DataSet);
 	void __fastcall qsDirectBeforeOpen(TDataSet *DataSet);
